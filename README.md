@@ -1,2 +1,2 @@
 # Data-Acquisition
-The files uploaded in the main branch are python notebooks submitted on canvas. 'Data' is a folder with all the recorded biking data for bumpy and smooth scenarios.
+The Folder in the main branch has everything needed to run the Assignment 1a notebook. The data was big, so it's zipped and uploaded in the same folder.
